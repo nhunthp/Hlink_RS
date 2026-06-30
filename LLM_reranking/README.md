@@ -41,7 +41,7 @@ NGCF top-100 candidates
   in the paper's expected JSON ranking format, generated with the offline
   mock client (no LLM calls) for pipeline verification.
 
-## Prompt design (paper §3.5)
+## Prompt design
 
 **System prompt:**
 > You are an experienced Wikipedia editor. Evaluate whether each candidate
